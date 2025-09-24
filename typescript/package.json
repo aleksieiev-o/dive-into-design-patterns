@@ -1,0 +1,14 @@
+{
+  "name": "dive-into-design-patterns",
+  "description": "",
+  "author": "Oleksandr Aleksieiev",
+  "version": "1.0.0",
+  "license": "ISC",
+  "keywords": ["design patterns", "oop", "typescript", "javascript"],
+  "main": "src/index.ts",
+  "scripts": {
+    "develop": "webpack-dev-server --mode development",
+    "build" : "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
